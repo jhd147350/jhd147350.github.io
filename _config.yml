@@ -1,0 +1,8 @@
+title: Jhd147350.GitHub.io
+description: my test 后续更新
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
